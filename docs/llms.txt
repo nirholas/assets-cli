@@ -1,0 +1,17 @@
+# @three-ws/assets
+
+> Find a ready-made 3D prop, rigged character, or motion clip on three.ws and add it to your project with the code that renders it. Free and public: no account, no API key, no payment.
+
+- Repository: https://github.com/nirholas/assets-cli
+- Documentation: https://nirholas.github.io/assets-cli/
+- npm: https://www.npmjs.com/package/@three-ws/assets
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/assets-cli/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/assets-cli/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/assets-cli/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/assets-cli/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/assets-cli/blob/main/CONTRIBUTING.md)
