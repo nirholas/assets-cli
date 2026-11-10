@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-assets",
+  "version": "0.1.0",
+  "description": "Find ready-made 3D props, rigged characters and motion clips on three.ws and add them to a project with render code.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/assets-cli",
+  "license": "Apache-2.0",
+  "keywords": [
+    "three-ws",
+    "3d",
+    "glb",
+    "assets",
+    "cc0",
+    "gltf"
+  ],
+  "homepage": "https://nirholas.github.io/assets-cli/"
+}
